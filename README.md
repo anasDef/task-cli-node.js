@@ -4,6 +4,9 @@ A simple command-line tool to manage your tasks, built with Node.js.
 
 ---
 
+## Project url
+[url] (https://roadmap.sh/projects/task-tracker)
+
 ## Installation
 
 ```bash
